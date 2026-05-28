@@ -1,0 +1,29 @@
+# Core NLP
+spacy
+sentence-transformers
+nltk
+
+# PDF & Document Parsing
+pdfplumber
+python-docx
+PyPDF2
+
+# Data Handling
+pandas
+numpy
+
+# ML & Similarity
+scikit-learn
+
+# AI Feedback
+anthropic
+
+# App
+streamlit
+
+# Environment
+python-dotenv
+
+# Utilities
+regex
+tqdm
