@@ -1,0 +1,55 @@
+# ==========================================
+# Python Byte-Compiled Caches
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# ==========================================
+# Virtual Environments (Local Interpretation)
+# ==========================================
+.venv/
+venv/
+env/
+ENV/
+bin/
+lib/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+
+# ==========================================
+# IDEs and Text Editors Settings
+# ==========================================
+# PyCharm / IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Miscellaneous editors
+*.swp
+*~
+
+# ==========================================
+# Security, Secrets & Environment Config
+# ==========================================
+.env
+.env.local
+.env.*
+! .env.example
+
+# ==========================================
+# Operating System Files (System Junk)
+# ==========================================
+.DS_Store
+Thumbs.db
