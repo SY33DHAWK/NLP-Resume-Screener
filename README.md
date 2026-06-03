@@ -292,8 +292,8 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Sheikh Syeed**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: [@YOUR_USERNAME](https://github.com/SY33DHAWK)
+- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/sy33dhawk)
 
 ---
 
