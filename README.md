@@ -2,7 +2,7 @@
 
 > An AI-powered resume analysis tool that matches resumes against job descriptions using Natural Language Processing and LLM-generated career feedback.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-3.14-blue?style=flat-square&logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35.0-red?style=flat-square&logo=streamlit)
 ![spaCy](https://img.shields.io/badge/spaCy-3.7.4-09A3D5?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq-LLaMA_3-orange?style=flat-square)
