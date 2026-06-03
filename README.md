@@ -105,7 +105,7 @@ Match Score + Skill Breakdown + AI Feedback
 
 ### Prerequisites
 
-- Python 3.11
+- Python 3.14
 - A free [Groq API key](https://console.groq.com)
 - Git
 
